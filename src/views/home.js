@@ -16,12 +16,12 @@ const Home = (props) => {
         <img alt="image" src="/alt-exam-300h.png" className="home-image1" />
         <span className="home-text">Alt-Exam</span>
         <div className="home-container2">
-        <a href="https://github.com/longathelstan/Alt-Exam-Web/releases/download/Release/Alt-Exam-TP_1.0.0_x64_en-US.msi">
+        <a href="https://github.com/longathelstan/Alt-Exam-Web/releases/download/iuhaanhhcuc/Alt-Exam-TP_1.1.0_x64_en-US.msi">
           <button type="button" className="home-button button">
             Alt-Exam-TP
           </button>
         </a>
-        <a href='https://github.com/longathelstan/Alt-Exam-Web/releases/download/Release/Alt-Exam-SP_1.0.0_x64_en-US.msi'>
+        <a href='https://github.com/longathelstan/Alt-Exam-Web/releases/download/iuhaanhhcuc/Alt-Exam-SP_1.1.0_x64_en-US.msi'>
           <button type="button" className="home-button1 button">
             Alt-Exam-SP
           </button>
