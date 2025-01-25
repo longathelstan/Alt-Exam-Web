@@ -1,5 +1,5 @@
 # Alt-Exam
-### it was my #1 project and got lots of achivement in many contest.
+### it was my #1 project and got lots of achivement in many contests.
 
 ## About:
 - Using ReactJS & Javascript & Python to develop, it is considered a serverless website.
