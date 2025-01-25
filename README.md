@@ -1,3 +1,4 @@
+<img width="100" height="100" align="left" style="float: left; margin: 0 10px 0 0;" alt="haanhhoii" src="public/alt-exam-300h.png">
 # Alt-Exam
 ### it was my #1 project and got lots of achivement in many contests.
 
